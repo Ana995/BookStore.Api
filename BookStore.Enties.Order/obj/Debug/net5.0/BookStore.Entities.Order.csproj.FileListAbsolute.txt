@@ -1,0 +1,11 @@
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Enties.Order\bin\Debug\net5.0\BookStore.Entities.Order.deps.json
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Enties.Order\bin\Debug\net5.0\BookStore.Entities.Order.dll
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Enties.Order\bin\Debug\net5.0\ref\BookStore.Entities.Order.dll
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Enties.Order\bin\Debug\net5.0\BookStore.Entities.Order.pdb
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Enties.Order\obj\Debug\net5.0\BookStore.Entities.Order.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Enties.Order\obj\Debug\net5.0\BookStore.Entities.Order.AssemblyInfoInputs.cache
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Enties.Order\obj\Debug\net5.0\BookStore.Entities.Order.AssemblyInfo.cs
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Enties.Order\obj\Debug\net5.0\BookStore.Entities.Order.csproj.CoreCompileInputs.cache
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Enties.Order\obj\Debug\net5.0\BookStore.Entities.Order.dll
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Enties.Order\obj\Debug\net5.0\ref\BookStore.Entities.Order.dll
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Enties.Order\obj\Debug\net5.0\BookStore.Entities.Order.pdb

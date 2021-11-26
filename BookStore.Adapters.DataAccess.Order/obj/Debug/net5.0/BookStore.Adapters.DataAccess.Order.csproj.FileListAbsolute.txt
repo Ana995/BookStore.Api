@@ -1,0 +1,11 @@
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Adapters.DataAccess.Order\bin\Debug\net5.0\BookStore.Adapters.DataAccess.Order.deps.json
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Adapters.DataAccess.Order\bin\Debug\net5.0\BookStore.Adapters.DataAccess.Order.dll
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Adapters.DataAccess.Order\bin\Debug\net5.0\ref\BookStore.Adapters.DataAccess.Order.dll
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Adapters.DataAccess.Order\bin\Debug\net5.0\BookStore.Adapters.DataAccess.Order.pdb
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Adapters.DataAccess.Order\obj\Debug\net5.0\BookStore.Adapters.DataAccess.Order.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Adapters.DataAccess.Order\obj\Debug\net5.0\BookStore.Adapters.DataAccess.Order.AssemblyInfoInputs.cache
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Adapters.DataAccess.Order\obj\Debug\net5.0\BookStore.Adapters.DataAccess.Order.AssemblyInfo.cs
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Adapters.DataAccess.Order\obj\Debug\net5.0\BookStore.Adapters.DataAccess.Order.csproj.CoreCompileInputs.cache
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Adapters.DataAccess.Order\obj\Debug\net5.0\BookStore.Adapters.DataAccess.Order.dll
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Adapters.DataAccess.Order\obj\Debug\net5.0\ref\BookStore.Adapters.DataAccess.Order.dll
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Adapters.DataAccess.Order\obj\Debug\net5.0\BookStore.Adapters.DataAccess.Order.pdb

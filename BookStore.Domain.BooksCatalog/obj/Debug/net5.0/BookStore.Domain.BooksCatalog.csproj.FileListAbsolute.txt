@@ -1,0 +1,12 @@
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Domain.BooksCatalog\bin\Debug\net5.0\BookStore.Domain.BooksCatalog.deps.json
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Domain.BooksCatalog\bin\Debug\net5.0\BookStore.Domain.BooksCatalog.dll
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Domain.BooksCatalog\bin\Debug\net5.0\ref\BookStore.Domain.BooksCatalog.dll
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Domain.BooksCatalog\bin\Debug\net5.0\BookStore.Domain.BooksCatalog.pdb
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Domain.BooksCatalog\obj\Debug\net5.0\BookStore.Domain.BooksCatalog.csproj.AssemblyReference.cache
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Domain.BooksCatalog\obj\Debug\net5.0\BookStore.Domain.BooksCatalog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Domain.BooksCatalog\obj\Debug\net5.0\BookStore.Domain.BooksCatalog.AssemblyInfoInputs.cache
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Domain.BooksCatalog\obj\Debug\net5.0\BookStore.Domain.BooksCatalog.AssemblyInfo.cs
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Domain.BooksCatalog\obj\Debug\net5.0\BookStore.Domain.BooksCatalog.csproj.CoreCompileInputs.cache
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Domain.BooksCatalog\obj\Debug\net5.0\BookStore.Domain.BooksCatalog.dll
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Domain.BooksCatalog\obj\Debug\net5.0\ref\BookStore.Domain.BooksCatalog.dll
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Domain.BooksCatalog\obj\Debug\net5.0\BookStore.Domain.BooksCatalog.pdb

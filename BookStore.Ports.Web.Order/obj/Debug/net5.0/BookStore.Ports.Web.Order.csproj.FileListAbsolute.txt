@@ -1,0 +1,12 @@
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Ports.Web.Order\bin\Debug\net5.0\BookStore.Ports.Web.Order.deps.json
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Ports.Web.Order\bin\Debug\net5.0\BookStore.Ports.Web.Order.dll
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Ports.Web.Order\bin\Debug\net5.0\ref\BookStore.Ports.Web.Order.dll
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Ports.Web.Order\bin\Debug\net5.0\BookStore.Ports.Web.Order.pdb
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Ports.Web.Order\obj\Debug\net5.0\BookStore.Ports.Web.Order.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Ports.Web.Order\obj\Debug\net5.0\BookStore.Ports.Web.Order.AssemblyInfoInputs.cache
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Ports.Web.Order\obj\Debug\net5.0\BookStore.Ports.Web.Order.AssemblyInfo.cs
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Ports.Web.Order\obj\Debug\net5.0\BookStore.Ports.Web.Order.csproj.CoreCompileInputs.cache
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Ports.Web.Order\obj\Debug\net5.0\BookStore.Ports.Web.Order.dll
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Ports.Web.Order\obj\Debug\net5.0\ref\BookStore.Ports.Web.Order.dll
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Ports.Web.Order\obj\Debug\net5.0\BookStore.Ports.Web.Order.pdb
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Ports.Web.Order\obj\Debug\net5.0\BookStore.Ports.Web.Order.csproj.AssemblyReference.cache

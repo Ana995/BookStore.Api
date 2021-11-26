@@ -1,0 +1,12 @@
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Domain.Cart\bin\Debug\net5.0\BookStore.Domain.Cart.deps.json
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Domain.Cart\bin\Debug\net5.0\BookStore.Domain.Cart.dll
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Domain.Cart\bin\Debug\net5.0\ref\BookStore.Domain.Cart.dll
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Domain.Cart\bin\Debug\net5.0\BookStore.Domain.Cart.pdb
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Domain.Cart\obj\Debug\net5.0\BookStore.Domain.Cart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Domain.Cart\obj\Debug\net5.0\BookStore.Domain.Cart.AssemblyInfoInputs.cache
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Domain.Cart\obj\Debug\net5.0\BookStore.Domain.Cart.AssemblyInfo.cs
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Domain.Cart\obj\Debug\net5.0\BookStore.Domain.Cart.csproj.CoreCompileInputs.cache
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Domain.Cart\obj\Debug\net5.0\BookStore.Domain.Cart.dll
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Domain.Cart\obj\Debug\net5.0\ref\BookStore.Domain.Cart.dll
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Domain.Cart\obj\Debug\net5.0\BookStore.Domain.Cart.pdb
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Domain.Cart\obj\Debug\net5.0\BookStore.Domain.Cart.csproj.AssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Adapters.Web.LogIn\bin\Debug\net5.0\BookStore.Adapters.Web.LogIn.deps.json
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Adapters.Web.LogIn\bin\Debug\net5.0\BookStore.Adapters.Web.LogIn.dll
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Adapters.Web.LogIn\bin\Debug\net5.0\ref\BookStore.Adapters.Web.LogIn.dll
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Adapters.Web.LogIn\bin\Debug\net5.0\BookStore.Adapters.Web.LogIn.pdb
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Adapters.Web.LogIn\obj\Debug\net5.0\BookStore.Adapters.Web.LogIn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Adapters.Web.LogIn\obj\Debug\net5.0\BookStore.Adapters.Web.LogIn.AssemblyInfoInputs.cache
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Adapters.Web.LogIn\obj\Debug\net5.0\BookStore.Adapters.Web.LogIn.AssemblyInfo.cs
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Adapters.Web.LogIn\obj\Debug\net5.0\BookStore.Adapters.Web.LogIn.csproj.CoreCompileInputs.cache
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Adapters.Web.LogIn\obj\Debug\net5.0\BookStore.Adapters.Web.LogIn.dll
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Adapters.Web.LogIn\obj\Debug\net5.0\ref\BookStore.Adapters.Web.LogIn.dll
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Adapters.Web.LogIn\obj\Debug\net5.0\BookStore.Adapters.Web.LogIn.pdb

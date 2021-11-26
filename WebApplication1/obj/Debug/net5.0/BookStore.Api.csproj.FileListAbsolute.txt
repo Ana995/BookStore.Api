@@ -1,0 +1,7 @@
+C:\Users\arenta\source\repos\BookStore.Api\WebApplication1\obj\Debug\net5.0\BookStore.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arenta\source\repos\BookStore.Api\WebApplication1\obj\Debug\net5.0\BookStore.Api.AssemblyInfoInputs.cache
+C:\Users\arenta\source\repos\BookStore.Api\WebApplication1\obj\Debug\net5.0\BookStore.Api.AssemblyInfo.cs
+C:\Users\arenta\source\repos\BookStore.Api\WebApplication1\obj\Debug\net5.0\BookStore.Api.csproj.CoreCompileInputs.cache
+C:\Users\arenta\source\repos\BookStore.Api\WebApplication1\obj\Debug\net5.0\BookStore.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\arenta\source\repos\BookStore.Api\WebApplication1\obj\Debug\net5.0\BookStore.Api.RazorAssemblyInfo.cache
+C:\Users\arenta\source\repos\BookStore.Api\WebApplication1\obj\Debug\net5.0\BookStore.Api.RazorAssemblyInfo.cs

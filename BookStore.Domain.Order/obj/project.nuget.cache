@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XxUnLVQh79jETzLHC2plN79nEsXfig/GHK1BbVj1wY3vsNzpb1b/iazSNvttlmPoKluFa0HighpSs4UK05UVeQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\arenta\\source\\repos\\BookStore.Api\\BookStore.Domain.Order\\BookStore.Domain.Order.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arenta\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

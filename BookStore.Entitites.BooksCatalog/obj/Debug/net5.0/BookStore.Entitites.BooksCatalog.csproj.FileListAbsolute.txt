@@ -1,0 +1,12 @@
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Entitites.BooksCatalog\bin\Debug\net5.0\BookStore.Entitites.BooksCatalog.deps.json
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Entitites.BooksCatalog\bin\Debug\net5.0\BookStore.Entitites.BooksCatalog.dll
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Entitites.BooksCatalog\bin\Debug\net5.0\ref\BookStore.Entitites.BooksCatalog.dll
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Entitites.BooksCatalog\bin\Debug\net5.0\BookStore.Entitites.BooksCatalog.pdb
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Entitites.BooksCatalog\obj\Debug\net5.0\BookStore.Entitites.BooksCatalog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Entitites.BooksCatalog\obj\Debug\net5.0\BookStore.Entitites.BooksCatalog.AssemblyInfoInputs.cache
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Entitites.BooksCatalog\obj\Debug\net5.0\BookStore.Entitites.BooksCatalog.AssemblyInfo.cs
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Entitites.BooksCatalog\obj\Debug\net5.0\BookStore.Entitites.BooksCatalog.csproj.CoreCompileInputs.cache
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Entitites.BooksCatalog\obj\Debug\net5.0\BookStore.Entitites.BooksCatalog.dll
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Entitites.BooksCatalog\obj\Debug\net5.0\ref\BookStore.Entitites.BooksCatalog.dll
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Entitites.BooksCatalog\obj\Debug\net5.0\BookStore.Entitites.BooksCatalog.pdb
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Entitites.BooksCatalog\obj\Debug\net5.0\BookStore.Entitites.BooksCatalog.csproj.AssemblyReference.cache

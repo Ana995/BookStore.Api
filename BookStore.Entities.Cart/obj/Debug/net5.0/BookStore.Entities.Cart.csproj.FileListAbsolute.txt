@@ -1,0 +1,11 @@
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Entities.Cart\bin\Debug\net5.0\BookStore.Entities.Cart.deps.json
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Entities.Cart\bin\Debug\net5.0\BookStore.Entities.Cart.dll
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Entities.Cart\bin\Debug\net5.0\ref\BookStore.Entities.Cart.dll
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Entities.Cart\bin\Debug\net5.0\BookStore.Entities.Cart.pdb
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Entities.Cart\obj\Debug\net5.0\BookStore.Entities.Cart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Entities.Cart\obj\Debug\net5.0\BookStore.Entities.Cart.AssemblyInfoInputs.cache
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Entities.Cart\obj\Debug\net5.0\BookStore.Entities.Cart.AssemblyInfo.cs
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Entities.Cart\obj\Debug\net5.0\BookStore.Entities.Cart.csproj.CoreCompileInputs.cache
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Entities.Cart\obj\Debug\net5.0\BookStore.Entities.Cart.dll
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Entities.Cart\obj\Debug\net5.0\ref\BookStore.Entities.Cart.dll
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Entities.Cart\obj\Debug\net5.0\BookStore.Entities.Cart.pdb

@@ -1,0 +1,11 @@
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.DbUpgrade.BooksCatalog\bin\Debug\net5.0\BookStore.DbUpgrade.BooksCatalog.deps.json
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.DbUpgrade.BooksCatalog\bin\Debug\net5.0\BookStore.DbUpgrade.BooksCatalog.dll
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.DbUpgrade.BooksCatalog\bin\Debug\net5.0\ref\BookStore.DbUpgrade.BooksCatalog.dll
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.DbUpgrade.BooksCatalog\bin\Debug\net5.0\BookStore.DbUpgrade.BooksCatalog.pdb
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.DbUpgrade.BooksCatalog\obj\Debug\net5.0\BookStore.DbUpgrade.BooksCatalog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.DbUpgrade.BooksCatalog\obj\Debug\net5.0\BookStore.DbUpgrade.BooksCatalog.AssemblyInfoInputs.cache
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.DbUpgrade.BooksCatalog\obj\Debug\net5.0\BookStore.DbUpgrade.BooksCatalog.AssemblyInfo.cs
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.DbUpgrade.BooksCatalog\obj\Debug\net5.0\BookStore.DbUpgrade.BooksCatalog.csproj.CoreCompileInputs.cache
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.DbUpgrade.BooksCatalog\obj\Debug\net5.0\BookStore.DbUpgrade.BooksCatalog.dll
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.DbUpgrade.BooksCatalog\obj\Debug\net5.0\ref\BookStore.DbUpgrade.BooksCatalog.dll
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.DbUpgrade.BooksCatalog\obj\Debug\net5.0\BookStore.DbUpgrade.BooksCatalog.pdb

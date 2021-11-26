@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qqaAWUKF22glotaH69HlfzVLwj3H6DlfEI0oP9PBIaOdYhKHOh2aGjwJxhkgmTjRUBXREl8F6ZF8nLDzEYpcRQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\arenta\\source\\repos\\BookStore.Api\\BookStore.Ports.Web.BooksCatalog\\BookStore.Ports.Web.BooksCatalog.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arenta\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\arenta\\.nuget\\packages\\refit\\6.1.15\\refit.6.1.15.nupkg.sha512",
+    "C:\\Users\\arenta\\.nuget\\packages\\system.net.http.json\\5.0.0\\system.net.http.json.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Infrastructure\bin\Debug\net5.0\BookStore.Infrastructure.deps.json
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Infrastructure\bin\Debug\net5.0\BookStore.Infrastructure.dll
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Infrastructure\bin\Debug\net5.0\ref\BookStore.Infrastructure.dll
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Infrastructure\bin\Debug\net5.0\BookStore.Infrastructure.pdb
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Infrastructure\obj\Debug\net5.0\BookStore.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Infrastructure\obj\Debug\net5.0\BookStore.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Infrastructure\obj\Debug\net5.0\BookStore.Infrastructure.AssemblyInfo.cs
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Infrastructure\obj\Debug\net5.0\BookStore.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Infrastructure\obj\Debug\net5.0\BookStore.Infrastructure.dll
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Infrastructure\obj\Debug\net5.0\ref\BookStore.Infrastructure.dll
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Infrastructure\obj\Debug\net5.0\BookStore.Infrastructure.pdb
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Infrastructure\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Infrastructure\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Infrastructure\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Infrastructure\bin\Debug\net5.0\Microsoft.Extensions.Primitives.xml
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Infrastructure\obj\Debug\net5.0\BookStore.Infrastructure.csproj.CopyComplete
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.Infrastructure\obj\Debug\net5.0\BookStore.Infrastructure.csproj.AssemblyReference.cache

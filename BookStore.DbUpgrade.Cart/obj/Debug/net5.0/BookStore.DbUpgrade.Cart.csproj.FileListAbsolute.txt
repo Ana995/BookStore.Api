@@ -1,0 +1,12 @@
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.DbUpgrade.Cart\bin\Debug\net5.0\BookStore.DbUpgrade.Cart.deps.json
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.DbUpgrade.Cart\bin\Debug\net5.0\BookStore.DbUpgrade.Cart.dll
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.DbUpgrade.Cart\bin\Debug\net5.0\ref\BookStore.DbUpgrade.Cart.dll
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.DbUpgrade.Cart\bin\Debug\net5.0\BookStore.DbUpgrade.Cart.pdb
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.DbUpgrade.Cart\obj\Debug\net5.0\BookStore.DbUpgrade.Cart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.DbUpgrade.Cart\obj\Debug\net5.0\BookStore.DbUpgrade.Cart.AssemblyInfoInputs.cache
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.DbUpgrade.Cart\obj\Debug\net5.0\BookStore.DbUpgrade.Cart.AssemblyInfo.cs
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.DbUpgrade.Cart\obj\Debug\net5.0\BookStore.DbUpgrade.Cart.csproj.CoreCompileInputs.cache
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.DbUpgrade.Cart\obj\Debug\net5.0\BookStore.DbUpgrade.Cart.dll
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.DbUpgrade.Cart\obj\Debug\net5.0\ref\BookStore.DbUpgrade.Cart.dll
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.DbUpgrade.Cart\obj\Debug\net5.0\BookStore.DbUpgrade.Cart.pdb
+C:\Users\arenta\source\repos\BookStore.Api\BookStore.DbUpgrade.Cart\obj\Debug\net5.0\BookStore.DbUpgrade.Cart.csproj.AssemblyReference.cache
